@@ -18,16 +18,16 @@ html {
 }
 
 :root {
-  --primary-color: #fff;
-  --secondary-color: rgb(0, 0, 0);
-  /* 
+  /* --primary-color: #fff;
+  --secondary-color: rgb(0, 0, 0); */
+
   --primary-color: rgb(0, 0, 0);
-  --secondary-color: #fff; */
+  --secondary-color: #fff;
 }
 
 .dark-theme {
-  --primary-color: rgb(0, 0, 0);
-  --secondary-color: #fff;
+  --primary-color: #fff;
+  --secondary-color: rgb(0, 0, 0);
 }
 #icon {
   width: 30px;
