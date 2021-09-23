@@ -226,6 +226,7 @@ header .navbar ul li a:hover {
   padding-top: 1rem;
   z-index: 1;
 }
+
 .home .image {
   flex: 1 1 40rem;
   z-index: 1;
@@ -262,7 +263,7 @@ header .navbar ul li a:hover {
   font-weight: 600;
   padding: 1rem 0;
 }
-/* .home .btn {
+.home .btn {
   margin-top: 1rem;
   position: absolute;
   line-height: 0;
@@ -289,7 +290,7 @@ header .navbar ul li a:hover {
 }
 .home .btn:hover i {
   transform: translateX(5px);
-} */
+}
 /* social icons start */
 .socials {
   position: relative;
