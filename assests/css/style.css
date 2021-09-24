@@ -227,7 +227,7 @@ header .navbar ul li a:hover {
   z-index: 1;
 }
 
-.home .image {
+/* .home .image {
   flex: 1 1 40rem;
   z-index: 1;
 }
@@ -240,7 +240,7 @@ header .navbar ul li a:hover {
 }
 .home .image img:hover {
   box-shadow: 0 5px 15px rgba(0, 0, 0, 0.5);
-}
+} */
 .home .content h3 {
   font-size: 5rem;
   font-weight: 800;
@@ -263,7 +263,7 @@ header .navbar ul li a:hover {
   font-weight: 600;
   padding: 1rem 0;
 }
-.home .btn {
+/* .home .btn {
   margin-top: 1rem;
   position: absolute;
   line-height: 0;
@@ -290,7 +290,7 @@ header .navbar ul li a:hover {
 }
 .home .btn:hover i {
   transform: translateX(5px);
-}
+} */
 /* social icons start */
 /* .socials {
   position: relative;
