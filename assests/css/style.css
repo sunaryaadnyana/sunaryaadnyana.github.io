@@ -707,8 +707,11 @@ header .navbar ul li a:hover {
     width: 100%;
   }
   .education .box-container .box .image {
-    width: 100%;
+    width: 50%;
     height: 25rem;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
   }
   .education .box-container .box img {
     width: 100%;
