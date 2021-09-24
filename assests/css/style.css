@@ -292,10 +292,10 @@ header .navbar ul li a:hover {
   transform: translateX(5px);
 }
 /* social icons start */
-.socials {
+/* .socials {
   position: relative;
-  margin-top: 2rem;
-}
+  margin-top: 0rem;
+} */
 .socials .social-icons {
   padding-left: 0;
   margin-bottom: 0;
