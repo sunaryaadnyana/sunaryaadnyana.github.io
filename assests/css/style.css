@@ -310,7 +310,7 @@ header .navbar ul li a:hover {
   display: inline-block;
   line-height: 44px;
   color: #ff7b00;
-  background-color: #09011b;
+  background-color: var(--secondary-color);
   width: 44px;
   height: 44px;
   text-align: center;
